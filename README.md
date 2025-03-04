@@ -23,7 +23,7 @@
 [點擊此處下載5-10 類 MT 磁磚缺陷圖片數據集](https://drive.google.com/file/d/1Ojy6wHdz7RnIUIV6PNhz2c02Eruttg0j/view?usp=drive_link)
 
 ## 數據文件
-[點擊此處下載0-4 類aircraft檢測數據文件.csv](https://github.com/NinaNeon/defect-detect/blob/b2bfb208f62917d0e1a2f904060d5c68a85ba5b1/5-10MT_tiles/5-10MT_Tiles.csv)
+[點擊此處下載5-10 類 MT 磁磚缺陷數據文件.csv](https://github.com/NinaNeon/defect-detect/blob/b2bfb208f62917d0e1a2f904060d5c68a85ba5b1/5-10MT_tiles/5-10MT_Tiles.csv)
 
 
 
