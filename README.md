@@ -34,3 +34,13 @@
 
 ### 數據文件
 [點擊此處下載 20-24 類 Wall 檢測數據文件 20-24wall1032.csv](https://github.com/NinaNeon/defect-detect/blob/1d6b14d680ee74bf220aa5078d56ef654320b781/20-24wall1000/20-24wall1032.csv)
+
+## 適用於 25-30 類 OLED 檢測
+### 數據集下載
+
+[點擊此處下載 25-30 類 OLED 檢測圖片數據集](https://drive.google.com/file/d/1Dh6lBKL6BkPWJcGU_DNeSI1AsJ10llqu/view?usp=drive_link)
+
+### 數據文件
+[點擊此處下載 25-30 類 OLED 檢測數據文件 25-30OLED.csv](https://github.com/NinaNeon/defect-detect/blob/69e7339b7220793d28fe831a83c692bb364f8b5a/25-30OLED/25-30OLED.csv)
+
+
