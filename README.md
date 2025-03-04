@@ -5,4 +5,4 @@
 ## 適用於 0-4 類aircraft
 
 ![示例圖片](https://github.com/user-attachments/assets/274277cf-c6f5-45d7-895b-d47e205a42fa)
-[點擊此處下載0-4 類aircraft數據集](https://drive.google.com/drive/folders/1Yzwp9QXh8pytgxvJWcKrW4gvRvwVQDxa?usp=drive_link)
+[點擊此處下載0-4 類aircraft圖片集](https://drive.google.com/drive/folders/1Yzwp9QXh8pytgxvJWcKrW4gvRvwVQDxa?usp=drive_link)
