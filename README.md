@@ -18,7 +18,6 @@
 ## 適用於 5-10 類 MT 磁磚缺陷數據
 ![image](https://github.com/user-attachments/assets/995d1f08-7a0a-409c-a6db-5a611fec32f8)
 
-
 ## 數據集下載
 
 [點擊此處下載5-10 類 MT 磁磚缺陷圖片數據集](https://drive.google.com/file/d/1Ojy6wHdz7RnIUIV6PNhz2c02Eruttg0j/view?usp=drive_link)
