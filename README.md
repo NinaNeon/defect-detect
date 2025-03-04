@@ -27,3 +27,10 @@
 ### 數據文件
 [點擊此處下載 11-19 類 NEU-DET 檢測數據文件 11-19NEU-DET1816.csv](https://github.com/NinaNeon/defect-detect/blob/fed407f8e3b6fc27dbb89cdb692618e32a56dc8a/11-19NEU-DET/11-19NEU-DET1816.csv)
 
+## 適用於 20-24 類 Wall 檢測
+### 數據集下載
+
+[點擊此處下載 20-24 類 Wall 檢測圖片數據集](https://drive.google.com/file/d/1ypZCvyC9hCKZ0Lm7ptBVs28_G6drEtMr/view?usp=drive_link)
+
+### 數據文件
+[點擊此處下載 20-24 類 Wall 檢測數據文件 20-24wall1032.csv](https://github.com/NinaNeon/defect-detect/blob/1d6b14d680ee74bf220aa5078d56ef654320b781/20-24wall1000/20-24wall1032.csv)
