@@ -21,7 +21,7 @@
 
 ## 數據集下載
 
-[點擊此處下載5-10 類 MT 磁磚缺陷圖片數據集]([https://drive.google.com/drive/folders/1Yzwp9QXh8pytgxvJWcKrW4gvRvwVQDxa?usp=drive_link](https://drive.google.com/file/d/1Ojy6wHdz7RnIUIV6PNhz2c02Eruttg0j/view?usp=drive_link))
+[點擊此處下載5-10 類 MT 磁磚缺陷圖片數據集](https://drive.google.com/file/d/1Ojy6wHdz7RnIUIV6PNhz2c02Eruttg0j/view?usp=drive_link)
 
 ## 數據文件
 [點擊此處下載0-4 類aircraft檢測數據文件.csv](https://github.com/NinaNeon/defect-detect/blob/5677959e66bba4c8f3b6c05b95515a3e6fcdca3e/0-4aircraft4000/0-4aircraft4000.csv)
