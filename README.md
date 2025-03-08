@@ -59,3 +59,12 @@
 ### 數據文件
 [點擊此處下載 39-258 類 Fabric 檢測數據文件 39-258fabric.csv](https://github.com/NinaNeon/defect-detect/blob/e34f02ef6228d9585566f567bd82ce8952d0c3ac/39-258fabric/39-258fabric.csv)
 
+## 適用於 259-265 類 Gear 檢測
+### 數據集下載
+
+[點擊此處下載 259-265 類 Gear 檢測圖片數據集](https://drive.google.com/drive/folders/1KweVPT4JqtEbu94O18_viISoF9wrdYqC?usp=drive_link)
+
+### 數據文件
+[點擊此處下載 259-265 類 Gear 檢測數據文件 259-265gear.csv](https://github.com/NinaNeon/defect-detect/blob/4bc7a0563b5ee42cb691d33daf600c57fb0e6f44/259-265gear/259-265gear.csv)
+
+
