@@ -51,4 +51,11 @@
 ### 數據文件
 [點擊此處下載 31-38 類 Solar Cell 檢測數據文件 31-38SOLARCELL.csv](https://github.com/NinaNeon/defect-detect/blob/0afdb3767010ec4701a854aa1d5e0dec33a34466/31-38solarcell/31-38SOLARCELL.csv)
 
+## 適用於 39-258 類 Fabric 檢測
+### 數據集下載
+
+[點擊此處下載 39-258 類 Fabric 檢測圖片數據集](https://drive.google.com/drive/folders/1fLXox6uaKebbOxWtQjRKV_C2sEg9ZZXY?usp=drive_link)
+
+### 數據文件
+[點擊此處下載 39-258 類 Fabric 檢測數據文件 39-258fabric.csv](https://github.com/NinaNeon/defect-detect/blob/e34f02ef6228d9585566f567bd82ce8952d0c3ac/39-258fabric/39-258fabric.csv)
 
