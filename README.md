@@ -43,4 +43,12 @@
 ### 數據文件
 [點擊此處下載 25-30 類 OLED 檢測數據文件 25-30OLED.csv](https://github.com/NinaNeon/defect-detect/blob/69e7339b7220793d28fe831a83c692bb364f8b5a/25-30OLED/25-30OLED.csv)
 
+## 適用於 31-38 類 Solar Cell 檢測
+### 數據集下載
+
+[點擊此處下載 31-38 類 Solar Cell 檢測圖片數據集](https://drive.google.com/drive/folders/1mG6UydqG8asd9u5EnpuT20y5npIOPXHu?usp=drive_link)
+
+### 數據文件
+[點擊此處下載 31-38 類 Solar Cell 檢測數據文件 31-38SOLARCELL.csv](https://github.com/NinaNeon/defect-detect/blob/0afdb3767010ec4701a854aa1d5e0dec33a34466/31-38solarcell/31-38SOLARCELL.csv)
+
 
