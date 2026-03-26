@@ -2,6 +2,42 @@
 
 This project provides defect detection datasets along with their corresponding usage information.
 
+# IMDD-1M: Towards Open-Vocabulary Industrial Defect Understanding
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+This repository provides the **IMDD-1M** dataset 
+---
+
+## Dataset Overview
+
+| Statistic | Value |
+|-----------|-------|
+| Total image-text pairs | 1,240,000+ |
+| Industrial domains | 63 |
+| Defect types | 421 |
+| Annotation format | Image + CSV/JSON per domain |
+| License | CC BY 4.0 |
+
+---
+
+## Quick Start
+
+```bash
+pip install gdown tqdm pillow pandas
+
+# Download all domains
+python prepare_dataset.py --output_dir ./data
+
+# Download a single domain
+python prepare_dataset.py --output_dir ./data --domain 266_353mvtec
+
+# Verify existing downloads only
+python prepare_dataset.py --output_dir ./data --verify_only
+```
+
+
+
 ## Applicable to Classes 0–4: Aircraft Defect Detection
 
 ### Dataset Download
